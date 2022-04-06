@@ -1,0 +1,17 @@
+{
+    "name": "rostami/likable",
+    "description": "implementing Like System for Laravel's Eloquent models",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reza RostamiNikoo",
+            "email": "RezaRostamiNikoo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rostami\\Likable\\": "src/"
+        }
+    }
+}
